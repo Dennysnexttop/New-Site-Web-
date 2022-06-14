@@ -56,7 +56,7 @@ Self-taught in Web Development and Computer Security
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back to top&color=CF2323&style=flat&logo" alt="back to top" /></a></p>
 
-## :hammer_and_wrench: Features
+## :hammer_and_wrench: Featuress
 - General
     - [x] Buttons to switch between sections
     - [ ] English version of the web page 
