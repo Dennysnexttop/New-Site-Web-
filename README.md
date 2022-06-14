@@ -14,7 +14,6 @@
 <p align="center"><i>“Empty your mind in your pocket and your mind will fill your pocket</i> </p>
 
 <div align="center">
-    
     <img src="https://img.shields.io/static/v1?label=npm&message=v8.1.2&color=CB3837&style=plastic&logo=npm" alt="npm version 8.1.2" />
     <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=339933&style=plastic&logo=" alt="PRs welcome" />
     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Carol42/portfolio?color=181717&logo=github&style=plastic&logoColor=181717">
@@ -56,7 +55,7 @@ Self-taught in Web Development and Computer Security
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back to top&color=CF2323&style=flat&logo" alt="back to top" /></a></p>
 
-## :hammer_and_wrench: Featuress
+## :hammer_and_wrench: Features
 - General
     - [x] Buttons to switch between sections
     - [ ] English version of the web page 
